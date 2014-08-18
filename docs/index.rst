@@ -6,7 +6,7 @@ Contents:
 .. toctree::
    :maxdepth: 3
 
-.. doxygenclass:: Nutshell
+.. doxygenindex::
    :members:
 
 Indices and tables
